@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- - 👋 Hi, I’m @yash patel
+- 👋 Hi, I’m @yash patel
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning javascript Web Development
 - 💞️ I’m looking to collaborate on inst_id :yashhhhhh_1 
-- 📫 How to reach me mail : yash8511132161@gmail.com -->
+- 📫 How to reach me mail : yash8511132161@gmail.com
 
-[![yashhhhh1's GitHub | Languages Over Time](https://stats.quine.sh/yashhhhh1/languages-over-time?theme=dark)](https://quine.sh)
+
 
