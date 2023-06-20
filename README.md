@@ -21,5 +21,7 @@ Here are some ideas to get you started:
 - 💞️ I’m looking to collaborate on inst_id :yashhhhhh_1 
 - 📫 How to reach me mail : yash8511132161@gmail.com
 
+ 
+### Connect with me on [LinkedIn](https://www.linkedin.com/in/yashhhh1/) and let's collaborate on something extraordinary!
 
 
